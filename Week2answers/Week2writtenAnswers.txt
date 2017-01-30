@@ -1,0 +1,34 @@
+1.
+	1. 
+	2. Password is requested despite user not existing.
+	3. 
+2.
+	1. cd .. moves up one level from the current directory.
+	2.  Week2-Thursday, Week2-Tuesday, and Week2answers, which seem to 
+be the two folders from the ATMS-305 github folder, plus the Answers 
+folder I created.
+	3. cd changes my directory to the home directory, 
+/data/keeling/a/tisch2
+	4. Nothing changes, /data/keeling/a/tisch2 is the highest 
+directory I can access.
+	5. 
+	6. Nothing happens.  I have access to all directories within 
+/data/keeling/a/tisch2 and /data/atms305/a/tisch2/
+	7. cd alone or cd /data/keeling/a/tisch2 will get me to the same 
+point.
+3.
+	1. ASCII
+	2. 3- Full multiuser mode.
+	3. 
+	4. Reveals it is a directory.
+	5. No, only reads Is a directory
+	6. There are 534 users listed in /etc/passwd.
+4.
+	1. 
+	2. 
+	3. 
+	4. 
+	5. Google.
+	6. 
+
+
